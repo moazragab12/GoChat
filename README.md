@@ -189,8 +189,6 @@ Message latency (min/avg/max): 0.1ms / 0.3ms / 1.2ms
 
 ### Performance Characteristics
 
-### Performance Characteristics
-
 - **Scalability**: Tested with 300+ concurrent connections  
   > **Note:** The 300-connection test was constrained by Windows and local hardware limits.  
   > The server itself can scale further on more powerful machines or properly tuned systems.
